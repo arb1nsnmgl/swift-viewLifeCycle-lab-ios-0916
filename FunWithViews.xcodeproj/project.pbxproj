@@ -124,12 +124,9 @@
 		5BF781AB1CFF537A005ECF6E /* FunWithViews */ = {
 			isa = PBXGroup;
 			children = (
-				5BF781AC1CFF537A005ECF6E /* AppDelegate.swift */,
+				A78940DE1D771C1300AB428F /* Supporting Files */,
 				5BF781AE1CFF537A005ECF6E /* ViewController.swift */,
 				5BF781B01CFF537A005ECF6E /* Main.storyboard */,
-				5BF781B31CFF537A005ECF6E /* Assets.xcassets */,
-				5BF781B51CFF537A005ECF6E /* LaunchScreen.storyboard */,
-				5BF781B81CFF537A005ECF6E /* Info.plist */,
 			);
 			path = FunWithViews;
 			sourceTree = "<group>";
@@ -163,6 +160,17 @@
 				AADD7E3CD3185D50DB7B0C5F /* Pods-FunWithViewsUITests.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		A78940DE1D771C1300AB428F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5BF781AC1CFF537A005ECF6E /* AppDelegate.swift */,
+				5BF781B31CFF537A005ECF6E /* Assets.xcassets */,
+				5BF781B51CFF537A005ECF6E /* LaunchScreen.storyboard */,
+				5BF781B81CFF537A005ECF6E /* Info.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
